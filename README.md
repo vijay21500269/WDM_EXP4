@@ -15,8 +15,8 @@
 
 ### Program:
 ```
-Name: Jegathish S
-Reg.No : 212221230041
+Name: Vijay R
+Reg.No : 212221230121
 ```
 ```python
 # read the data
